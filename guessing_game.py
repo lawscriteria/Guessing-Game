@@ -1,8 +1,8 @@
-# Note: "Lawi Enterprises" is a fictional name used for this project.
+# Note: "Lawi Corp" is a fictional name used for this project.
 
 # MIT License
 
-# Copyright (c) 2024 Lawi Enterprises
+# Copyright (c) 2024 Lawi Corp
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
