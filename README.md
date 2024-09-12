@@ -19,7 +19,7 @@
     - #### Run the Python File
         After opening the .py file in your code editor, run it.
         
-    **Disclaimer: The program operates entirely within the text editor's terminal.**
+    **Disclaimer: The program runs entirely within the text editor's terminal.**
     <br>
 
 ## Search Algorithms
