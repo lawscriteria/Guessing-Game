@@ -1,4 +1,4 @@
-  # Gu<div style="font-family: courier, 'Courier New', monospace;">
+<div style="font-family: courier, 'Courier New', monospace;">
 
 # Guessing Game
 
