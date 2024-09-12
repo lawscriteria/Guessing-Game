@@ -51,7 +51,7 @@ Average time complexity: O(log N)
 
 <hr>
 
-<h1>&copy;<span>&LeftAngleBracket;&thinsp;</span> Brought to you by Lawi Corp<span>&thinsp;&RightAngleBracket;</span></h1>
+<h1>&copy;<span>&thinsp;&LeftAngleBracket;&thinsp;</span> Brought to you by Lawi Corp<span>&thinsp;&RightAngleBracket;</span></h1>
 
 <div>
     <h2>Disclaimer</h2>
