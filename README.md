@@ -55,7 +55,7 @@ Average time complexity: O(log N)
 
 <div>
     <h2>Disclaimer</h2>
-    <h4><b>Lawi Enterprises</b> is a fictional business name used for the purposes of this project. It does not represent a real company or entity. Any use of this name in the project's documentation or code is for illustrative purposes only.</h4>
+    <h4><b>Lawi Corp</b> is a fictional business name used for the purposes of this project. It does not represent a real company or entity. Any use of this name in the project's documentation or code is for illustrative purposes only.</h4>
 </div>
 
 <h2>Disclaimer</h2>
