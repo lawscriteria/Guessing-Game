@@ -4,7 +4,7 @@
 
 #### Description: The Guessing Game is a Python project that demonstrates a collection of search algorithms through an interactive game. In this game, the program acts as the guesser, and the user selects a number within a given range. The user also specifies the preferred strategy or "play" that the program should use to find and "guess" the hidden number.
 
-### You cannot lie in this game.
+### You cannot lie in this game. 
 
 ## How to Play: 
 
