@@ -51,35 +51,11 @@ Average time complexity: O(log N)
 
 <hr>
 
-<h1 class="ctext" style="display: flex; justify-content: center; align-items: center; text-align: center; transition: 200ms;"><span>&LeftAngleBracket;&thinsp;</span> Brought to you by Lawi Enterprises<span>&thinsp;&RightAngleBracket;</span></h1>
+<h1><span>&LeftAngleBracket;&thinsp;</span> Brought to you by Lawi Enterprises<span>&thinsp;&RightAngleBracket;</span></h1>
 
-<div style="text-align: center; margin-top: 50px;">
+<div>
     <h2>Disclaimer</h2>
     <h4><b>Lawi Enterprises</b> is a fictional business name used for the purposes of this project. It does not represent a real company or entity. Any use of this name in the project's documentation or code is for illustrative purposes only.</h4>
 </div>
 
 </div>
-
-<style>
-    @keyframes ctext-hover {
-        50% {
-            opacity: 1;
-        }
-    }
-
-    .ctext:hover {
-        color: violet;
-    }
-
-    .ctext > span {
-        opacity: 0;
-    }
-
-    .ctext:hover > span {
-        animation: ctext-hover 2.0s ease-in-out infinite;
-    }
-
-    a:hover {
-        color: violet;
-    }
-</style>
