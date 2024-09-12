@@ -51,7 +51,7 @@ Average time complexity: O(log N)
 
 <hr>
 
-<h1>&copy;<span>&thinsp;&LeftAngleBracket;&thinsp;</span>Lawi Corp<span>&thinsp;&RightAngleBracket;</span></h1>
+<h1><span>&thinsp;&LeftAngleBracket;&thinsp;</span>&copy; Lawi Corp<span>&thinsp;&RightAngleBracket;</span></h1>
 
 <div>
     <h2>Disclaimer</h2>
