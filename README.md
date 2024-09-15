@@ -51,11 +51,6 @@ Average time complexity: O(log N)
 
 <hr>
 
-<h1><span>&thinsp;&LeftAngleBracket;&thinsp;</span>&copy; Lawi Corp<span>&thinsp;&RightAngleBracket;</span></h1>
-
-<div>
-    <h2>Disclaimer</h2>
-    <h4><b>Lawi Corp</b> is a fictional business name used for the purposes of this project. It does not represent a real company or entity. Any use of this name in the project's documentation or code is for illustrative purposes only.</h4>
-</div>
+<h1><span>&thinsp;&LeftAngleBracket;&thinsp;</span>&copy; 2024 Lawi<span>&thinsp;&RightAngleBracket;</span></h1>
 
 </div>
