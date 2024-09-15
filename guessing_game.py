@@ -1,5 +1,3 @@
-# Note: "Lawi Corp" is a fictional name used for this project.
-
 # MIT License
 
 # Copyright (c) 2024 Lawi Corp
