@@ -24,19 +24,19 @@
 
 ## Search Algorithms
 
-Currect search algorithms include:
+Current search algorithms are:
 
     let R = { x ∣ a ≤ x ≤ b} 𝑛 ∈ 𝑅
 
-#### (1) Binary search [B(n, R)]: Utilizes a half-interval search; during each iteration, it will chop or halve the given set R and check each new half r for n. This is repeated until n is found.
+#### (1) Binary search [B(n, R)]: Utilizes a half-interval search; during each iteration, it will chop or halve the given set R and check if the midpoint is equal to n by asking the user. If it is not, the user has to specify whether n is lesser than or greater than the midpoint. This process is repeated for the new set r with n in it until n is found.
 
 Average time complexity: O(log N)
 
-#### (2) Random search [E(n, R)]: Uses purely random integer choices or guesses within the given range of set R. If the guess is incorrect, the program treats it as a point for the division of set R into two new sets. Then the program will check each new set r for n, and it will repeat the process on the new set r with n in it until n is found.
+#### (2) Random search [E(n, R)]: Uses purely random integer choices or guesses within the given range of set R. If the guess is incorrect, the user specifies whether it is lesser than or greater than n. This process is repeated for the new set r with n in it until n is found.
 
 Average-case time complexity: O(N)
 
-#### (3) Quarter Slice [Q(n, R)]: Chops or slices the given set R into two new sets one with a length 1/4 of that of R, and the other with a length 3/4 of that of R, and checks for n in each new set r. Repeats the process on the new set r with n in it until n is found.
+#### (3) Quarter Slice [Q(n, R)]: Chops or slices the given set R into two new sets one with a length 1/4 of that of R, and the other with a length 3/4 of that of R, and checks if the number used as the division point is equal to n. If not, the user has to give a comparison for n, and just like the previous methods, this information is used to define new smaller sets r with n in them, and the process is repeated until n is found.
 
 Average time complexity: O(log N)
 
